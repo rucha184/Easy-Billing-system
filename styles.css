@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.billing-title {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: #151515;   
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
