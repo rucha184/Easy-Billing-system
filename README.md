@@ -1,6 +1,6 @@
 # Easy-Billing-System ✨
 
--A simple and attractive billing system frontend built with **HTML, CSS, JavaScript, and Bootstrap**.  
+A simple and attractive billing system frontend built with **HTML, CSS, JavaScript, and Bootstrap**.  
 It allows you to enter customer details, add items, and generate an invoice with auto-calculated totals.  
 
 ##  🚀Features
